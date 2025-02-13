@@ -41,11 +41,13 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
 
 ### Prerequisites
 
-- A machine running Ubuntu 22.04. The program should on most recent Linux systems, although the supported configuration is Ubuntu 22.04.
+- A machine running Ubuntu 22.04. The program should on most recent Linux x86-64 systems, although the supported configuration is Ubuntu 22.04.
 - C. The entire project was written using C programming language.
-- GTK 3 family of GUI libraries. This assumes you want a GUI version.
-- (Optional) The precompiled binary from this repository.
-- (Optional) A hexadecimal editor. 
+- The file reverse-overflow.c. Available in this repository under src.
+- The file int-to-buf-oflow.c. Available in this repository under src.
+- (Optional) The precompiled binary reverse-overflow. Available in this repository under src.
+- (Optional) The The precompiled binary int-to-buf-oflow. Available in this repository under src.
+- The GNU Project Debugger (GDB).
 
 ### Installation
 
