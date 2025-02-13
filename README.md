@@ -46,7 +46,7 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
 - The file reverse-overflow.c. Available in this repository under src.
 - The file int-to-buf-oflow.c. Available in this repository under src.
 - (Optional) The precompiled binary reverse-overflow. Available in this repository under src.
-- (Optional) The The precompiled binary int-to-buf-oflow. Available in this repository under src.
+- (Optional) The precompiled binary int-to-buf-oflow. Available in this repository under src.
 - The GNU Project Debugger (GDB).
 
 ### Installation
