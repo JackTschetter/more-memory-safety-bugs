@@ -23,7 +23,9 @@
 
 ## About
 
-Lab related to memory safety vulnerabilities in C and understanding low level program behavior.
+Lab related to memory safety vulnerabilities in C and understanding low level program behavior.<br>
+
+The GNU project debugger (GDB) was not required for this lab, but many of my students found it to be a very useful tool. 
 
 ---
 
