@@ -59,6 +59,8 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
 
 This repository contains the source files reverse-overflow.c, int-to-buf-oflow.c. The repository also contains the precompiled binaries reverse-overflow, and int-to-buf-oflow. Suggested to use the precompiled binaries provided, although I did not require this of my students, but it makes the lab much easier.<br>
 
+**Note** This lab was designed and the binaries are compiled for Linux x86-64. It is strongly reccommended to use a machine running Ubuntu 22.04. If you are using a different Linux x86-64 distribution that might also work, but has not been tested. Other Unix style x86-64 systems might also work, but with significant difficulties. <br>
+
 ${\color{red}WARNING}$ This is intentionally vulnerable low level code and source code that deliberately ignores software engineering best practices. These files were created for the sole purpose of teaching a class on Designing and Developing Secure Software. The command used to compile the binaries does so in a way that intentionally disables various defense mechanisms against certain kinds of attacks. Exercise enhanced caution when downloading and using the provided code.
 
 ---
