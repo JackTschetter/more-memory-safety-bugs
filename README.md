@@ -10,14 +10,14 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-    - [Disclaimer](#disclaimer)
 - [Lab](#lab)
     - [Reverse Overflow](#reverse-overflow)
     - [Integer Overflow to Buffer Overflow](#integer-overflow-to-buffer-overflow)
-- [License](#license)
+- [Usage](#usage)
+    - [Disclaimer](#disclaimer)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ---
 
