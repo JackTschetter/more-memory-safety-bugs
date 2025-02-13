@@ -55,7 +55,7 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
    git clone https://github.com/JackTschetter/more-memory-safety-bugs
    cd more-memory-safety-bugs
 
-This repository contains
+This repository contains the source files reverse-overflow.c, int-to-buf-oflow.c. The repository also contains the precompiled binaries reverse-overflow, and int-to-buf-oflow. Suggested to use the precompiled binaries provided, although I did not require this of my students, but it makes the lab much easier.<br><br>
 
 ${\color{red}WARNING}$ This is intentionally vulnerable low level code and source code that deliberately ignores software engineering best practices. These files were created for the sole purpose of teaching a class on Designing and Developing Secure Software. The command used to compile the binaries does so in a way that intentionally disables various defense mechanisms against certain kinds of attacks. Exercise enhanced caution when downloading and using the provided code.
 
