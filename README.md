@@ -23,7 +23,7 @@
 
 ## About
 
-Lab developed for teaching about a fuzzing tool called AFL. Using AFL to find interesting crashing inputs of programs, and try out some attacker techniques related to heap vulnerabilities. To be precise I taught on AFL++ a more recent forked version.
+Lab related to memory safety vulnerabilities in C and understanding low level program behavior.
 
 ---
 
