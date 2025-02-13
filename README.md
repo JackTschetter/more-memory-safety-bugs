@@ -31,7 +31,7 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
 
 ## Tools Used
 
-- **Operating System**: Linux x86-64. 
+- **Operating System**: Linux x86-64. Recommended to use a machine running Ubuntu 22.04.
 - **Programming Language(s)**: C
 - **Tools**: The GNU Project Debugger (GDB)
 
