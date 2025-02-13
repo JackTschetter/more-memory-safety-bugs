@@ -31,9 +31,9 @@ The GNU project debugger (GDB) was not required for this lab, but many of my stu
 
 ## Tools Used
 
-- **Operating System**: Linux. Perhaps in the future other compatible Unix variants.
+- **Operating System**: Linux x86-64. 
 - **Programming Language(s)**: C
-- **Libraries**: The GUI portion uses the GTK 3 family of GUI libraries.
+- **Tools**: The GNU Project Debugger (GDB)
 
 ---
 
